@@ -6,7 +6,7 @@ cfg.target = 'web'
 
 cfg.entry = {
   ...cfg.entry,
-  '~.min': ['babel-polyfill', './src']
+  '~.min': './src'
 }
 
 cfg.plugins = [
