@@ -8,7 +8,6 @@
 
 ## Running in development
 - run `npm start`
-- run `npm run start`
 
 ## Running in production
 - run `npm run build`
